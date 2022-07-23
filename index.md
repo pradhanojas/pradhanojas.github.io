@@ -3,6 +3,4 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+I am a doctoral student in the Building Science and Engineering Group (BSEG) led by Dr. Jin Wen at Drexel University. My research interests include application of machine learning, big data tools and timeseries analysis for an energy-efficient built environment. My current work focuses on developing data-driven strategies to optimize performance and control of Grid-interactive Efficient Buildings (GEBs).

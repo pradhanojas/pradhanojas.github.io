@@ -1,7 +1,6 @@
 menu:
 - {name: 'research', url: '/research'}
 - {name: 'publications', url: '/publications'}
-- {name: 'cv', url: '/cv/resume-pradhanojas.pdf'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}

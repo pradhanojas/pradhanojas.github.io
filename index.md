@@ -15,6 +15,7 @@ Email: <a href="mailto:omp28@drexel.edu">omp28@drexel.edu</a>
 <div>
     Python, Matlab, R, SAS, HTML/CSS
 </div>
+<br>
 <h5 class="mb-0">Data Science</h5>
 <div>
     Machine Learning (Keras/Tensorflow, PyTorch), Deep Learning (CNNs, RNNs), Statistical Inferences, Data Visualization 

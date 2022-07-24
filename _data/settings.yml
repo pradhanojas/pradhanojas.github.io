@@ -11,7 +11,7 @@ courses:
 social:
 - {icon: 'github', link: 'https://github.com/pradhanojas'}
 - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Ojas-Pradhan'}
-- {icon: 'google-scholar', class: 'ai', link: 'https://scholar.google.com/citations?user=GCiV73sAAAAJ&hl=en'}
+- {icon: 'google-scholar', class: 'ai ai-google-scholar', link: 'https://scholar.google.com/citations?user=GCiV73sAAAAJ&hl=en'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/pradhanojas'}
 
 contacts:

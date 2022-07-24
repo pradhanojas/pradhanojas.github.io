@@ -11,7 +11,7 @@ Email: <a href="mailto:omp28@drexel.edu">omp28@drexel.edu</a>
 
 
 <h3 class="fw-bold">Skills</h3>
-<h5 class="mb-5">Programming Languages</h5>
+<h5 class="mb-0">Programming Languages</h5>
 <div>
     Python, SAS, R, Keras/Tensorflow, PyTorch, Matlab, HTML/CSS
 </div>

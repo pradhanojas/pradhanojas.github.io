@@ -1,5 +1,5 @@
 menu:
-- {name: 'research', url: '/post'}
+- {name: 'research', url: '/research'}
 - {name: 'publications', url: '/publications'}
 - {name: 'cv', url: '/cv/resume-pradhanojas.pdf'}
 

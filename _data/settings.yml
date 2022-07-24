@@ -1,7 +1,7 @@
 menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'research', url: '/courses'}
-- {name: 'cv', url: '/cv/Resume-TeX.pdf'}
+- {name: 'cv', url: '/cv/resume-pradhanojas.pdf'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}

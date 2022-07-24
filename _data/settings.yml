@@ -1,5 +1,5 @@
 menu:
-- {name: 'research', url: '/courses'}
+- {name: 'research', url: '/research'}
 - {name: 'publications', url: '/publications'}
 
 courses:
@@ -7,7 +7,7 @@ courses:
 - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
-project:
+research:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
 - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 - {name: 'Stellar Structures', url: 'stellar-structures'}

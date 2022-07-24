@@ -10,7 +10,8 @@ My research interests include application of machine learning, big data tools an
 Email: <a href="mailto:omp28@drexel.edu">omp28@drexel.edu</a>
 
 <br>
-<h3 class="fw-bold">Skills</h3>
+<h3 class="fw-bold border-bottom pb-3 mb-0">Skills</h3>
+<br>
 <h5 class="mb-0">Programming Languages</h5>
 <div>
     Python, Matlab, R, SAS, HTML/CSS

@@ -8,9 +8,9 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 research:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+- {name: 'Data Imputation', url: 'vector-calculus'}
+- {name: 'Fault Diagnosis', url: 'quantum-mechanics'}
+- {name: 'Fault Prognosis', url: 'stellar-structures'}
 
 social:
 - {icon: 'github', link: 'https://github.com/pradhanojas'}

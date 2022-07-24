@@ -8,9 +8,9 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 research:
-- {name: 'Data Imputation', url: 'vector-calculus'}
-- {name: 'Fault Diagnosis', url: 'quantum-mechanics'}
-- {name: 'Fault Prognosis', url: 'stellar-structures'}
+- {name: 'Lagged kNN Approach for Data Imputation', url: 'data-imputation'}
+- {name: 'DBN-based Fault Diagnosis Framework', url: 'fault-diagnosis'}
+- {name: 'DBN-based Fault Prognosis Framework', url: 'fault-prognosis'}
 
 social:
 - {icon: 'github', link: 'https://github.com/pradhanojas'}

@@ -2,13 +2,6 @@
 layout: default
 ---
 
-<div class="row g-5 mb-5">
-  <div class="col-md-12">
-    <h3 class="fw-bold border-bottom pb-3 mb-3">Projects</h3>
-    {% for research in site.data.settings.research %}
-      <br>
-      <h5><a href="{{ site.github.url }}/research/{{ research.url}}">{{ research.name }}</a></h5>     
-      <p>{{ research.subtitle }}</p> 
-    {% endfor %}
-  </div>
-</div>
+{{ content }}
+
+{% include research.html %}

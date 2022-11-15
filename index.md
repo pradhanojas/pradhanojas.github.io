@@ -23,7 +23,7 @@ Email: <a href="mailto:omp28@drexel.edu">omp28@drexel.edu</a>
 <br>
 <h5 class="mb-0">Database Management</h5>
 <div>
-    SQL (Postgres, MariaDB), NoSQL (MongoDB)
+    SQL (Postgres, MariaDB), NoSQL (MongoDB), Spark
 </div>
 <br>
 <h5 class="mb-0">Cloud-based Technologies</h5>

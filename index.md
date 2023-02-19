@@ -9,26 +9,33 @@ My research interests include application of machine learning, big data tools an
 
 Email: <a href="mailto:omp28@drexel.edu">omp28@drexel.edu</a>
 
+
+<!-- Programming Languages: Python, Matlab, R, SQL, Apache Spark
+AI/ML Libraries: Scikit-Learn, SciPy, PyTorch, TensorFlow, Keras
+AI/ML Skills: MLOps, Applied Statistics, Bayesian Inference, Predictive Analysis, Data Modeling
+Cloud Services and Deployment Frameworks: Azure ML Studio, Vertex AI, Docker
+Engineering Tools: Dymola, Simulink, TRNSYS, EnergyPlus, LabVIEW
+Others: Git, LaTeX -->
+
 <br>
 <h3 class="fw-bold border-bottom pb-3 mb-3">Skills</h3>
 <h5 class="mb-0">Programming Languages</h5>
 <div>
-    Python, Matlab, R, SAS, HTML/CSS
+    Python, Matlab, R, SQL, Apache Spark
 </div>
 <br>
-<h5 class="mb-0">Data Science</h5>
+<h5 class="mb-0">AI/ML Libraries</h5>
 <div>
-    Machine Learning (Keras/Tensorflow, PyTorch), Deep Learning (CNNs, RNNs), Statistical Inferences, Data Visualization 
+    Scikit-Learn, SciPy, PyTorch, TensorFlow, Keras
 </div>                        
 <br>
-<h5 class="mb-0">Database Management</h5>
+<h5 class="mb-0">AI/ML Skills</h5>
 <div>
-    SQL (Postgres, MariaDB), NoSQL (MongoDB), Spark
-</div>
+    MLOps, Applied Statistics, Bayesian Inference, Predictive Analysis, Data Modeling and Visualization
 <br>
-<h5 class="mb-0">Cloud-based Technologies</h5>
+<h5 class="mb-0">Cloud Services and Deployment Frameworks</h5>
 <div>
-    Microsoft Azure, Docker
+    Azure ML Studio, Vertex AI, Docker
 </div>
 <br>         
 <h5 class="mb-0">Engineering Tools</h5>

@@ -24,6 +24,7 @@ Email: <a href="mailto:omp28@drexel.edu">omp28@drexel.edu</a>
 <h5 class="mb-0">AI/ML Skills</h5>
 <div>
     MLOps, Applied Statistics, Bayesian Inference, Predictive Analysis, Data Modeling and Visualization
+</div> 
 <br>
 <h5 class="mb-0">Cloud Services and Deployment Frameworks</h5>
 <div>

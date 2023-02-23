@@ -27,7 +27,7 @@ Email: <a href="mailto:omp28@drexel.edu">omp28@drexel.edu</a>
 <br>
 <h5 class="mb-0">Cloud Services and Deployment Frameworks</h5>
 <div>
-    Azure ML Studio, Vertex AI, Docker
+    Azure ML Studio, Docker
 </div>
 <br>         
 <h5 class="mb-0">Engineering Tools</h5>

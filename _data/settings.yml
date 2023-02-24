@@ -9,11 +9,10 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 research:
-- {name: 'Data Predictive Control', subtitle: 'data-driven model predictive control', url: 'dpc'}
-- {name: 'Lagged kNN Approach for Data Imputation', subtitle: 'missing data imputation', url: 'data-imputation'}
-- {name: 'Automated Fault Detection and Diagnosis (AFDD)', subtitle: 'anamoly detection and root cause identification', url: 'fault-diagnosis'}
-- {name: 'Fault Prognosis', subtitle: 'future fault estimation', url: 'fault-prognosis'}
-- {name: 'Data Predictive Control', subtitle: 'Data-driven model predictive control', url: 'dpc'}
+- {name: 'Data Predictive Control (DPC)', subtitle: 'data-driven model predictive control for real-building in Stockholm, Swenden', url: 'dpc'}
+- {name: 'Lagged kNN Approach for Data Imputation', subtitle: 'multivariate missing data imputation study', url: 'data-imputation'}
+- {name: 'Automated Fault Detection and Diagnosis (AFDD)', subtitle: 'anamoly detection and root cause identification', url: 'fdd'}
+- {name: 'Fault Prognosis', subtitle: 'prediction of future fault status for predicitve maintenance', url: 'prognosis'}
 
 
 social:

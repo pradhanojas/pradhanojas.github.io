@@ -1,6 +1,7 @@
 menu:
 - {name: 'home', url: ''}
 - {name: 'publications', url: '/publications'}
+- {name: 'projects', url: '/research'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}

@@ -9,7 +9,7 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 research:
-- {name: 'Data Predictive Control (DPC)', subtitle: 'development and deployment of DPC for multiple campus building in Sweden', url: 'dpc'}
+- {name: 'Data Predictive Control (DPC)', subtitle: 'development and deployment of DPC for multiple campus buildings in Sweden', url: 'dpc'}
 - {name: 'Data Imputation', subtitle: 'multivariate missing data imputation study', url: 'data-imputation'}
 - {name: 'Fault Detection and Diagnosis (FDD)', subtitle: 'anamoly detection and root cause identification for cyber-physical systems', url: 'fdd'}
 - {name: 'Fault Prognosis', subtitle: 'prediction of future fault status for predicitve maintenance', url: 'prognosis'}

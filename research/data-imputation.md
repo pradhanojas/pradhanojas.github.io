@@ -8,7 +8,7 @@ title: "Data Imputation"
   <br>
 
   <div class="row md-6">
-  <img src="{{ site.github.url }}/assets/img/imputation.jpg" width="25%" height="25%">
+  <img src="{{ site.github.url }}/assets/img/imputation.jpg" width="20%" height="20%">
 </div>
 </div>
 

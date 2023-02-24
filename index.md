@@ -7,7 +7,7 @@ I am a doctoral student in the <a href="https://drexel.edu/engineering/academics
 
 My research interests include application of machine learning, big data tools and timeseries analysis for an energy-efficient built environment. My current work focuses on developing data-driven strategies to optimize performance and control of <a href="https://www.energy.gov/eere/buildings/grid-interactive-efficient-buildings" target="_blank">Grid-interactive Efficient Buildings (GEBs)</a>.
 
-Email: <a href="mailto:omp28@drexel.edu">omp28@drexel.edu</a>
+Email: <a href="mailto:omp28@drexel.edu">omp28@drexel.edu</a>; <a href="mailto:pradhanojas23@gmail.com">pradhanojas23@gmail.com</a>
 
 <br>
 <h3 class="fw-bold border-bottom pb-3 mb-3">Skills</h3>

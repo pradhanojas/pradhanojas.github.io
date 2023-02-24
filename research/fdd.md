@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DBN-based Fault Diagnosis Framework"
+title: "Fault Detection and Diagnosis (FDD)"
 ---
 
 <div class="row md-6">

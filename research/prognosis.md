@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DBN-based Fault Prognosis Framework"
+title: "Fault Prognosis"
 ---
 
 <div class="row md-6">

@@ -8,7 +8,7 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 research:
-- {name: 'Data Predictive Control', subtitle: 'Data-driven supervisory level control', url: 'dpc'}
+- {name: 'Data Predictive Control', subtitle: 'Data-driven model predictive control', url: 'dpc'}
 - {name: 'Lagged kNN Approach for Data Imputation', subtitle: 'Handling missing BAS data', url: 'data-imputation'}
 - {name: 'DBN-based Fault Diagnosis Framework', subtitle: 'Root cause identification', url: 'fault-diagnosis'}
 - {name: 'DBN-based Fault Prognosis Framework', subtitle: 'Preventive maintenance', url: 'fault-prognosis'}

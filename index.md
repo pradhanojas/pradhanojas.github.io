@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-I am a doctoral student in the <a href="https://drexel.edu/engineering/academics/departments/civil-architectural-environmental-engineering/department-research/faculty-laboratories/building-science-engineering-group/" target="_blank">Building Science and Engineering Group (BSEG)</a> led by <a href="https://drexel.edu/engineering/about/faculty-staff/W/wen-jin/" target="_blank">Professor Jin Wen</a> at <a href="https://drexel.edu/" target="_blank">Drexel University</a>. 
+I am a doctoral candidate in the <a href="https://drexel.edu/engineering/academics/departments/civil-architectural-environmental-engineering/department-research/faculty-laboratories/building-science-engineering-group/" target="_blank">Building Science and Engineering Group (BSEG)</a> led by <a href="https://drexel.edu/engineering/about/faculty-staff/W/wen-jin/" target="_blank">Professor Jin Wen</a> at <a href="https://drexel.edu/" target="_blank">Drexel University</a>. 
 
 My research interests include application of machine learning, big data tools and timeseries analysis for an energy-efficient built environment. My current work focuses on developing data-driven strategies to optimize performance and control of <a href="https://www.energy.gov/eere/buildings/grid-interactive-efficient-buildings" target="_blank">Grid-interactive Efficient Buildings (GEBs)</a>.
 

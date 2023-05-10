@@ -3,11 +3,11 @@ layout: home
 title: "Home"
 ---
 
-I am a doctoral reseracher in the <a href="https://drexel.edu/engineering/academics/departments/civil-architectural-environmental-engineering/department-research/faculty-laboratories/building-science-engineering-group/" target="_blank">Building Science and Engineering Group (BSEG)</a> led by <a href="https://drexel.edu/engineering/about/faculty-staff/W/wen-jin/" target="_blank">Professor Jin Wen</a> at <a href="https://drexel.edu/" target="_blank">Drexel University</a>. 
+I am a doctoral reseracher in the <a href="https://bseg.cae.drexel.edu/" target="_blank">Building Science and Engineering Group (BSEG)</a> led by <a href="https://drexel.edu/engineering/about/faculty-staff/W/wen-jin/" target="_blank">Professor Jin Wen</a> at <a href="https://drexel.edu/" target="_blank">Drexel University</a>. 
 
 My research interests include application of machine learning, big data tools and timeseries analysis for an energy-efficient built environment. My current work focuses on developing data-driven strategies to optimize performance and control of smart <a href="https://www.energy.gov/eere/buildings/grid-interactive-efficient-buildings" target="_blank">Grid-interactive Efficient Buildings (GEBs)</a>.
 
-Email: <a href="mailto:omp28@drexel.edu">omp28@drexel.edu</a>
+Email: <a href="mailto:pradhanojas23@gmail.com">pradhanojas23@gmail.com</a>
 
 <br>
 <h3 class="fw-bold border-bottom pb-3 mb-3">Skills</h3>
@@ -28,7 +28,7 @@ Email: <a href="mailto:omp28@drexel.edu">omp28@drexel.edu</a>
 <br>
 <h5 class="mb-0">Cloud Services and Deployment Frameworks</h5>
 <div>
-    Azure ML Studio, Docker
+    Docker, Azure ML Studio
 </div>
 <br>         
 <h5 class="mb-0">Engineering Tools</h5>

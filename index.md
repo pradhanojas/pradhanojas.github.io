@@ -9,10 +9,10 @@ My research interests include application of machine learning, big data tools an
 
 Email: <a href="mailto:pradhanojas23@gmail.com">pradhanojas23@gmail.com</a>
 
-<br>
+<!-- <br>
 <div class="row g-5 mb-5">
   <div class="col-md-12" style="text-align: justify">
     <h3 class="fw-bold border-bottom pb-3 mb-3">Experience</h3>
     Fault Detection and Diagnosis, Demand Flexibility
 </div>
-</div>
+</div> -->

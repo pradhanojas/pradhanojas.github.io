@@ -11,11 +11,10 @@ Email: <a href="mailto:pradhanojas23@gmail.com">pradhanojas23@gmail.com</a>
 
 <br>
 <div class="row g-5 mb-5">
-    <div class="col-md-12" style="text-align: justify">
+  <div class="col-md-12" style="text-align: justify">
     <h3 class="fw-bold border-bottom pb-3 mb-3">Experience</h3>
-    <ul style=“list-style-type:disc”>
-    <li>Fault Detection and Diagnosis</li>
-    <li>Demand Flexibitily</li>
-    </ul>
-    </div>
-</div   
+    Fault Detection and Diagnosis
+     <br/><br/>
+    Demand Flexiitily
+</div>
+</div>

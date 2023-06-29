@@ -1,4 +1,4 @@
 url: "https://pradhanojas.com/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "Ojas Pradhan, PhD" # the name of your site, e.g. ACME Corp.
-description: "AI for Sustainability | Building Science | Data Science"
+title: "Ojas Pradhan" # the name of your site, e.g. ACME Corp.
+description: "PhD | AI for Sustainability | Building Data Science"

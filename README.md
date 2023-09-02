@@ -1,1 +1,1 @@
-Personal website - pradhanojas.github.io
+Personal website - pradhanojas.com

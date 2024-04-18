@@ -20,5 +20,5 @@ social:
 - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Ojas-Pradhan'}
 - {icon: 'google', link: 'https://scholar.google.com/citations?user=GCiV73sAAAAJ&hl=en'}
 
-contacts:
-- {name: 'Ojas Pradhan', title: 'Curtis 153A', department: 'Drexel University', institution: '3141 Chestnut St., Philadelphia', institution_address: '', phone: '', email: 'omp28@drexel.edu', office: '', image: 'assets/img/contact.jpg'}
+# contacts:
+# - {name: 'Ojas Pradhan', title: 'Curtis 153A', department: 'Drexel University', institution: '3141 Chestnut St., Philadelphia', institution_address: '', phone: '', email: 'omp28@drexel.edu', office: '', image: 'assets/img/contact.jpg'}

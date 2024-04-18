@@ -2,26 +2,9 @@ menu:
 - {name: 'home', url: ''}
 - {name: 'skills', url: '/skills'}
 - {name: 'publications', url: '/publications'}
-- {name: 'research', url: '/research', active: false}
-- {name: 'courses', url: '/courses', active: false}
-- {name: 'contact', url: '/contact', active: false}
-
-courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
-
-# research:
-- {name: 'Data Predictive Control (DPC)', subtitle: 'development and deployment of DPC for multiple campus buildings in Sweden', url: 'dpc'}
-- {name: 'Data Imputation', subtitle: 'multivariate missing data imputation study', url: 'data-imputation'}
-- {name: 'Fault Detection and Diagnosis (FDD)', subtitle: 'anamoly detection and root cause identification for cyber-physical systems', url: 'fdd'}
-- {name: 'Fault Prognosis', subtitle: 'prediction of future fault status for predicitve maintenance', url: 'prognosis'}
 
 social:
 - {icon: 'github', link: 'https://github.com/pradhanojas'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/pradhanojas'}
 - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Ojas-Pradhan'}
 - {icon: 'google', link: 'https://scholar.google.com/citations?user=GCiV73sAAAAJ&hl=en'}
-
-# contacts:
-# - {name: 'Ojas Pradhan', title: 'Curtis 153A', department: 'Drexel University', institution: '3141 Chestnut St., Philadelphia', institution_address: '', phone: '', email: 'omp28@drexel.edu', office: '', image: 'assets/img/contact.jpg'}

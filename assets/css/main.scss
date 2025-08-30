@@ -1,1 +1,12 @@
 @import "main";
+
+// Custom link styles
+a {
+  color: #222;
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  color: #007acc;
+  text-decoration: underline;
+}
